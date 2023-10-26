@@ -1,0 +1,124 @@
+{
+  "events": [
+    {
+      "date": "2023-10-25",
+      "event": "Team Meeting",
+      "time": "10:00 AM"
+    },
+    {
+      "date": "2023-10-26",
+      "event": "Job Interview",
+      "time": "3:30 PM"
+    },
+    {
+      "date": "2023-10-27",
+      "event": "Client Presentation",
+      "time": "3:00 PM"
+    },
+    {
+      "date": "2023-11-02",
+      "event": "Business Conference",
+      "time": "10:15 AM"
+    },
+    {
+      "date": "2023-11-03",
+      "event": "Sales Presentation",
+      "time": "2:45 PM"
+    },
+    {
+      "date": "2023-11-09",
+      "event": "Product Launch Planning",
+      "time": "2:45 PM"
+    },
+    {
+      "date": "2023-11-11",
+      "event": "Project Review",
+      "time": "3:15 PM"
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Hiring Interview",
+      "time": "2:00 PM"
+    },
+    {
+      "date": "2023-11-18",
+      "event": "Client Pitch Presentation",
+      "time": "1:15 PM"
+    },
+    {
+      "date": "2023-11-21",
+      "event": "Team Building Workshop",
+      "time": "10:45 AM"
+    },
+    {
+      "date": "2023-11-23",
+      "event": "Project Status Update",
+      "time": "9:30 AM"
+    },
+    {
+      "date": "2023-11-25",
+      "event": "Investor Relations Meeting",
+      "time": "11:45 AM"
+    },
+    {
+      "date": "2023-11-29",
+      "event": "Client Meeting",
+      "time": "10:15 AM"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "New Year Strategy Review",
+      "time": "9:00 AM"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Marketing Campaign Review",
+      "time": "10:30 AM"
+    },
+    {
+      "date": "2023-12-07",
+      "event": "Product Development Meeting",
+      "time": "11:30 AM"
+    },
+    {
+      "date": "2023-12-12",
+      "event": "Project Review",
+      "time": "4:15 PM"
+    },
+    {
+      "date": "2023-12-16",
+      "event": "Business Conference",
+      "time": "2:30 PM"
+    },
+    {
+      "date": "2023-12-19",
+      "event": "Quarterly Review",
+      "time": "9:00 AM"
+    },
+    {
+      "date": "2023-12-20",
+      "event": "Job Interview",
+      "time": "1:45 PM"
+    },
+    {
+      "date": "2023-12-22",
+      "event": "Product Kickoff",
+      "time": "3:00 PM"
+    },
+    {
+      "date": "2023-12-23",
+      "event": "Stakeholder Meeting",
+      "time": "11:30 AM"
+    },
+    {
+      "date": "2023-12-29",
+      "event": "Board Meeting",
+      "time": "10:15 AM"
+    },
+    {
+      "date": "2023-12-30",
+      "event": "Investor Relations Meeting",
+      "time": "3:15 PM"
+    }
+  ]
+}
