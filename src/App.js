@@ -79,7 +79,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="text-center">React Big Calendar</h1>
+      <h1 className="text-center">React calendar</h1>
       <div className="calendar-container">
         <Calendar
           localizer={localizer}
@@ -112,7 +112,7 @@ function App() {
         )}
       </div>
       <p className="text-center">
-        <span className="bold">Selected Date:</span> {date.toDateString()}
+        <span className="bold">Current Date:</span> {date.toDateString()}
       </p>
     </div>
   );
