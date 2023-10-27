@@ -79,7 +79,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="text-center">React calendar</h1>
+      <h1 className="text-center">Calendar</h1>
       <div className="calendar-container">
         <Calendar
           localizer={localizer}
@@ -107,12 +107,12 @@ function App() {
           >
             <strong>{selectedEvent.title}</strong>
             <br />
-            {selectedEvent.start.toTimeString()}
+            Event start: {moment(selectedEvent.start).format('HH:mm')}
           </div>
         )}
       </div>
       <p className="text-center">
-        <span className="bold">Current Date:</span> {date.toDateString()}
+        <span className="bold">Current Date:</span> {new Date().toLocaleDateString()}
       </p>
     </div>
   );

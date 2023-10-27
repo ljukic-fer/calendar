@@ -96,5 +96,11 @@
 }
 
 .rbc-month-row + .rbc-month-row {
-  border-top: 2px solid #ddd; /* Adjust the border color and style as needed */
+  border-top: 2px solid #ddd;
+}
+
+.calendar-container {
+  border-radius: 10px; 
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
