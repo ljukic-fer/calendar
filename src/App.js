@@ -7,6 +7,13 @@ import { transformEvents } from './events';
 
 const localizer = momentLocalizer(moment);
 
+function getDateFromURL() {
+  const url = window.location.pathname;
+  const parts = url.split('/');
+  const dateString = parts[1];
+  return dateString;
+}
+
 function App() {
   const [date, setDate] = useState(new Date());
   const [events, setEvents] = useState([]);
@@ -29,7 +36,8 @@ function App() {
     return () => {
       document.removeEventListener('click', handleDocumentClick);
     };
-  }, []);
+  }, []);  
+  
 
   const handleEventClick = (event, e) => {
     e.stopPropagation();

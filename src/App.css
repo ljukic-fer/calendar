@@ -104,3 +104,17 @@
   overflow: hidden;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
+/*header buttons*/
+.rbc-btn-group > button {
+  background-color: #007bff;
+  color: white;
+}
+.rbc-btn-group > button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+  transition: background-color 0.2s, transform 0.2s;
+}
+.rbc-btn-group > button:active {
+  background-color: #007bff;
+}
